@@ -7,28 +7,6 @@ import matplotlib.pyplot as plt
 from glob import glob
 import os
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#%% 두번째 변경사항 올릴 때
-# change import
-
 #%% 해빙에 np.nan 혹은 -1.8 입력, lim_time에 원하는 기간 입력
 lim_time = ['1991', '2020']
 # sea_ice = -1.8
