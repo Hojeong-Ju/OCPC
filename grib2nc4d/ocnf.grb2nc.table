@@ -1,0 +1,37 @@
+#
+$lev_type 160:ocean depth below sea level:m:1
+$nlev 39
+$levs 4478 3972 3483 3016 2579 2174 1807 1479 1193 949
+       747  584  459  303  262  238  225  215  205 195
+       185  175  165  155  145  135  125  115  105  95
+        85   75   65   55   45   35   25   15    5    
+$grads 1
+POT:*:Temp
+SALTY:*:Sali
+UOGRD:*:U 
+VOGRD:*:V
+DZDT:*:W
+# surface data
+UFLX:surface:taux
+VFLX:surface:tauy
+SSHG:surface:adt
+ICEC:surface:IceC
+ICETK:surface:IceTk
+SNOD:surface:SnoD
+TMP:surface:SST
+UICE:surface:Uice
+VICE:surface:Vice
+EMNP:surface:emp
+THFLX:surface:hflx_Dn
+DBSS:bottom of ocean mixed layer:mld
+DBSS:bottom of ocean isothermal layer:mldT
+OHC:0-300 m ocean layer:OHC300
+TCHP:layer ocean surface and 26C ocean isothermal level:TCHP26
+DBSS:2.5C ocean isotherm:D2p5
+DBSS:5C ocean isotherm:D5
+DBSS:10C ocean isotherm:D10
+DBSS:15C ocean isotherm:D15
+DBSS:20C ocean isotherm:D20
+DBSS:25C ocean isotherm:D25
+DBSS:28C ocean isotherm:D28
+# end of file
