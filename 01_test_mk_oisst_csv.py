@@ -15,6 +15,7 @@ import datetime as dt
 from glob import glob
 from dask.diagnostics import ProgressBar
 
+#%% 두번째 변경사항
 #%% 추가
 # #%% v2.0, v2.1 차원 같음
 # test_2019 = xr.open_dataset(r'D:\01_Monthly_analysis\02_workspace\02_OISST\data/2019/20190101120000-NCEI-L4_GHRSST-SSTblend-AVHRR_OI-GLOB-v02.0-fv02.0.nc')
